@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi Hi!
+ 👩‍💻**University of Waterloo Computer Science'22**
 
-<!--
-**gaoxk/gaoxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you!
+- 👀 Learning about Computer Vision 
+- 🌏 Leading project [planet-read](https://github.com/uwblueprint/planet-read), a translation platform for non-profit [PlanetRead](https://www.planetread.org/)
+- 🙌 Interested in tackling social issues with code
+- 🛏️ Dreaming of starting my own company
+- 🎨 Hobbyist artist and pianist
+- 📫 [Let's chat!](mailto:gaoxuekristy@gmail.com) Always down to learn and share with others. 
+- 🟦 [LinkedIn / Resume](https://ca.linkedin.com/in/gaoxk)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
