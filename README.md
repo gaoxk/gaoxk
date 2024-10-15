@@ -1,7 +1,7 @@
 ### Hi Hi!
 
-🌎 SWE [@watershed](https://watershed.com/)
- 
+Building something...
+
 👩‍💻 University of Waterloo Computer Science'22
 
 Nice to meet you!
